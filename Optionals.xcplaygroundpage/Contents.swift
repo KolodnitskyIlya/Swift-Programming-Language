@@ -1,8 +1,5 @@
 import Foundation
 
-
-
-
 // "There is always a value and it is a Boolean"
 let myBool: Bool = false
 
